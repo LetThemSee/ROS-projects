@@ -5,4 +5,4 @@
 ### 3. RRT (motion planning)
 ### 4. Extended Kalman filter and Particle Filter
 
-The real implementations are included in 'nodes' folder.
+Each package has a folder named 'nodes'. That is where the details of the algorithm are stored.
